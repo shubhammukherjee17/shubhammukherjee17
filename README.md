@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammukherjee17&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammukherjee17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhammukherjee17" alt="shubhammukherjee17" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imshubham1817" target="blank"><img src="https://img.shields.io/twitter/follow/imshubham1817?logo=twitter&style=for-the-badge" alt="imshubham1817" /></a> </p>
 
 - 🔭 I’m currently working on **Text Summarization using NLP**
