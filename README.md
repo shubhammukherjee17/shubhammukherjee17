@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/imshubham1817" target="blank"><img src="https://img.shields.io/twitter/follow/imshubham1817?logo=twitter&style=for-the-badge" alt="imshubham1817" /></a> </p>
 
-- 🔭 I’m currently working on **Text Summarization using NLP**
+- 🔭 I’m currently working on **Image Encryption & Decryption System**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **Python, C++, Java,**
 
