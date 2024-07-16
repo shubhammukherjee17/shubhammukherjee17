@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Mukherjee</h1>
 <h3 align="center">An AI/ML Enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammukherjee17&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammukherjee17" /> </p>
+
 <p align="left"> <a href="https://twitter.com/imshubham1817" target="blank"><img src="https://img.shields.io/twitter/follow/imshubham1817?logo=twitter&style=for-the-badge" alt="imshubham1817" /></a> </p>
 
 - 🔭 I’m currently working on **Respiratory disease recognition through respiratory sound using deep neural network**
