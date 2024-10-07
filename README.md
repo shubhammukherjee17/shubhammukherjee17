@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AI/ML Projects**
 
-- 💬 Ask me about **C/C++, Java, Python,**
+- 💬 Ask me about **C/C++, Java, Python**
 
 - 📫 How to reach me **mukherjeeshubham18@gmail.com**
 
