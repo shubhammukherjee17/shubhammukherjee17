@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imshubham1817" target="blank"><img src="https://img.shields.io/twitter/follow/imshubham1817?logo=twitter&style=for-the-badge" alt="imshubham1817" /></a> </p>
 
-- 🔭 I’m currently working on **Deepfake Images Detection**
+- 🔭 I’m currently working on **College Management System using MERN Stack**
 
 - 👯 I’m looking to collaborate on **JavaScript & MongoDB**
 
