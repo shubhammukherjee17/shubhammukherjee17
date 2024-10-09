@@ -1,4 +1,4 @@
-# Hey 👋 I'm Shubham Mukherjee :
+# Hey 👋 I'm Shubham Mukherjee 
 🔭 I’m currently working on - College Management System using MERN Stack<br>👯 I’m looking to collaborate on - Full Stack Projects<br>🤝 I’m looking for help with - theavnishkumar<br>🌱 I’m currently learning - MongoDB and ExpressJS<br>💬 Ask me about - C++, Java, Python<br>
 
 
