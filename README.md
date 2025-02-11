@@ -36,7 +36,7 @@ Let’s build something great together!
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on AI-Powered Code Reviewer   
@@ -50,7 +50,7 @@ Let’s build something great together!
 
 </td><td valign="top" width="50%">
 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammukherjee17&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
