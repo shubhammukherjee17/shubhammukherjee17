@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 👯 I’m looking to collaborate on [AI Healthcare]
+- 👯 I’m looking to collaborate on **AI Healthcare**
 
 - 💬 Ask me about **Java, C/C++, Python, Machine Learning, JavaScript**
 
