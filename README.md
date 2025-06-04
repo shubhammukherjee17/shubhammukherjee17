@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imshubham1817" target="blank"><img src="https://img.shields.io/twitter/follow/imshubham1817?logo=twitter&style=for-the-badge" alt="imshubham1817" /></a> </p>
 
-- 🔭 I’m currently working on [AcuHealth](https://accu-health.vercel.app)
+- 🔭 I’m currently working on [AcuHealth](https://acu-health.vercel.app)
 
 - 🌱 I’m currently learning **MERN Stack**
 
