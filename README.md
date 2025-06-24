@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammukherjee17&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammukherjee17" /> </p>
 
 
-- 🔭 I’m currently working on [GFG Student Chapter Website](https://gfg.ggits,org)
+- 🔭 I’m currently working on [GFG Student Chapter Website](https://gfg.ggits.org)
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 🌱 I’m currently learning **React.js, TypeScript**
 - 💬 Ask me about **JavaScript, Java, Python**
