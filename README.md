@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GFG Website GGITS<br>👯 I’m looking to collaborate on Full Stack Project<br>🤝 I’m looking for help with AI Powered Projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Java, Python, AI, ML, DL<br>
+🔭 I’m currently working on Promptify-AI Advanced Prompt Generator<br>👯 I’m looking to collaborate on Full Stack Project<br>🤝 I’m looking for help with AI Powered Projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Java, Python, AI, ML, DL<br>
 
 
 ## 🌐 Socials:
