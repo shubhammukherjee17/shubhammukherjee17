@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [AI Powered Projects](https://github.com/shubhammukherjee17/LangChain-Python)
 
-- 👨‍💻 All of my projects are available at [https://shubhammukherjee.in/](https://shubhammukherjee.in/)
+- 👨‍💻 All of my projects are available at [Shubham Mukherjee](https://shubhammukherjee.in/](https://shubhammukherjee.in/)
 
-- 📝 I regularly write articles on [https://shubhammukherjee.in/](https://shubhammukherjee.in/)
+- 📝 I regularly write articles on [Shubham Mukherjee](https://shubhammukherjee.in/)
 
 - 💬 Ask me about **Java, Python, AI, ML, DL**
 
 - 📫 How to reach me **mukherjeeshubham18@gmail.com**
 
-- 📄 Know about my experiences https://tinyurl.com/shubham-mukherjee
+- 📄 Know about my experiences [Resume] (https://tinyurl.com/shubham-mukherjee)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
