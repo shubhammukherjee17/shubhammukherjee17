@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [AI Powered Projects](https://github.com/shubhammukherjee17/LangChain-Python)
 
-- 👨‍💻 All of my projects are available at [Shubham Mukherjee](https://shubhammukherjee.in/](https://shubhammukherjee.in/)
+- 👨‍💻 All of my projects are available at [Shubham Mukherjee](https://shubhammukherjee.in/)
 
 - 📝 I regularly write articles on [Shubham Mukherjee](https://shubhammukherjee.in/)
 
