@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mukherjeeshubham18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v-8Rh6jcdtaoTQsAa9h7TA_sPH4Uuzze/view?usp=drive_link](https://drive.google.com/file/d/1v-8Rh6jcdtaoTQsAa9h7TA_sPH4Uuzze/view?usp=drive_link)
+- 📄 Know about my experiences [https://tinyurl.com/shubham-mukherjee)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
