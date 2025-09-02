@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammukherjee17&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammukherjee17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsshubhamdev" target="blank"><img src="https://img.shields.io/twitter/follow/itsshubhamdev?logo=twitter&style=for-the-badge" alt="itsshubhamdev" /></a> </p>
+<p align="left"> <a href="https://x.com/ItsShubhamDev" target="blank"><img src="https://img.shields.io/twitter/follow/itsshubhamdev?logo=twitter&style=for-the-badge" alt="itsshubhamdev" /></a> </p>
 
 - 🔭 I’m currently working on [AI Website Builder](https://ai-website-builder-eta.vercel.app/)
 
