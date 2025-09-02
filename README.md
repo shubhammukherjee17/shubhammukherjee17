@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Shubham Mukherjee](https://shubhammukherjee.in/)
 
-- 📝 I regularly write articles on [Shubham Mukherjee](https://shubhammukherjee.in/)
+- 📝 I regularly write articles on [Shubham Mukherjee](https://shubhammukherjee.in/blog)
 
 - 💬 Ask me about **Java, Python, AI, ML, DL**
 
