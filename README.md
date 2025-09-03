@@ -181,7 +181,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammukherjee17&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammukherjee17&theme=tokyonight_duo" alt="shubhammukherjee17" /></p>
 
 </details>
   
