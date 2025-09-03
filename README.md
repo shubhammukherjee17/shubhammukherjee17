@@ -25,6 +25,7 @@ I love solving problems, building projects, and continuously learning new techno
 <a href="https://www.x.com/ItsShubhamDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ItsShubhamDev?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
