@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsshubhamdev" target="blank"><img src="https://img.shields.io/twitter/follow/itsshubhamdev?logo=twitter&style=for-the-badge" alt="itsshubhamdev" /></a> </p>
 
-- 🔭 I’m currently working on [AI Website Builder](https://ai-website-builders.vercel.app/)
+- 🔭 I’m currently working on [AI Powered Tourist Safety App](https://yatrirakshak.vercel.app/)
 
 - 🌱 I’m currently learning **TypeScript & Python**
 
