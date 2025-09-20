@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [LangChain-Python](https://github.com/shubhammukherjee17/LangChain-Python)
 
-- 👨‍💻 All of my projects are available at [https://shubhammukherjee.in/](https://shubhammukherjee.in/)
+- 👨‍💻 All of my projects are available at [Shubham Mukherjee](https://shubhammukherjee.in/)
 
-- 📝 I regularly write articles on [https://shubhammukherjee.in/blog](https://shubhammukherjee.in/blog)
+- 📝 I regularly write articles on [My Blogs](https://shubhammukherjee.in/blog)
 
 - 💬 Ask me about **Java, JavaScript, React, ML, AI, DL**
 
