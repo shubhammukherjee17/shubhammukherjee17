@@ -1,7 +1,5 @@
-<!-- ====== PROFILE HEADER ====== -->
-
 <h1 align="center">🟣 Shubham Mukherjee</h1>
-<h3 align="center">Full Stack Developer • Builder of Scalable Systems</h3>
+<h3 align="center">Full Stack Developer • Architect of Scalable Systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ENGINEER-Full%20Stack-7F00FF?style=for-the-badge" />
@@ -12,13 +10,22 @@
 
 ---
 
-## 🧬 Developer Overview
+# 🧬 About Me
 
-I am a **Full Stack Developer** focused on **building scalable, production-ready systems** that combine performance, clean architecture, and long-term maintainability.  
+I’m **Shubham Mukherjee**, a full stack developer who treats software  
+like infrastructure—engineered, structured, and optimized for **scale**.
 
-I specialize in full-stack engineering, cloud-native design, and high-performance system logic.
+My work focuses on creating:
+
+- Systems that **don’t break under pressure**  
+- Architectures that **evolve instead of decay**  
+- Applications where **design meets performance**  
+
+I don’t just build features—  
+I build **systems that stand the test of scale**.
 
 ---
+
 
 ## 🧠 Tech Stack
 
