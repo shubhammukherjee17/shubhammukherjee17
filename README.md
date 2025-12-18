@@ -1,153 +1,154 @@
-<h1 align="center">🟣 Shubham Mukherjee</h1>
-<h3 align="center">Full Stack Developer • Architect of Scalable Systems</h3>
+<h1 align="center">Hi 👋, I'm Shubham Mukherjee</h1>
+<h3 align="center">Full Stack Developer | Building scalable web apps with React, TypeScript, and Node.js</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ENGINEER-Full%20Stack-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ARCHITECT-System%20Design-FF0099?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHILOSOPHY-Scalability%20First-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-Cyberpunk%20Terminal-39FF14?style=for-the-badge" />
+  <a href="mailto:mukherjeeshubham18@gmail.com"><img src="https://img.shields.io/badge/Email-mukherjeeshubham18%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://shubhammukherjee.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shubhammukherjee.in-black?style=flat-square&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/theshubhammukherjee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Mukherjee-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://x.com/ItsShubhamDev" target="_blank"><img src="https://img.shields.io/badge/X-@ItsShubhamDev-black?style=flat-square&logo=x" /></a>
 </p>
 
 ---
 
-# 🧬 About Me
+## 🚀 About Me
 
-I’m **Shubham Mukherjee**, a full stack developer who treats software  
-like infrastructure—engineered, structured, and optimized for **scale**.
-
-My work focuses on creating:
-
-- Systems that **don’t break under pressure**  
-- Architectures that **evolve instead of decay**  
-- Applications where **design meets performance**  
-
-I don’t just build features—  
-I build **systems that stand the test of scale**.
+- 🔭 Currently building: **AI Proposal & Quote Generator with Client Portal**
+- 🎯 Aiming for: **Software Developer roles** and **Open Source Contributor**
+- 🌱 Currently learning: **Docker** and **Kubernetes**
+- 💻 Love working on: Full stack web apps, AI-powered tools, and developer-focused products
+- 🎓 **B.Tech CSE (AIML), 4th year** at **Gyan Ganga Institute of Technology and Sciences**
 
 ---
 
+## 🛠 Tech Stack
 
-## 🧠 Tech Stack
+**Languages**
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-### **DevOps / Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-### **Blockchain**
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-
----
-
-## 🚀 Featured Project — InvoSync
-
-**InvoSync** is a full-stack business workflow automation platform built to unify  
-**accounting, invoicing, billing, and inventory** into one optimized system.
-
-**Tech Stack:** React • Next.js • TypeScript
-
-
----
-
-## 🏅 Certifications
-- Python Essentials — Cisco  
-- C++ Essentials — Cisco  
-
----
-
-## 🏆 Awards
-- **5× State Level Volleyball Champion**  
-- **4× Inter School / College Volleyball Champion**
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhammukherjee17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammukherjee17&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shubhammukherjee17&combine_all_yearly_contributions=true&theme=matrix" />
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🧪 Random Project Idea Generator (Click to Reveal)
+## 🚧 Projects
 
-<details>
-<summary><b>🟣 Show Ideas</b></summary>
-
-- Hyperledger-based decentralized invoice verification  
-- Kubernetes-powered auto-scaling billing engine  
-- A Next.js dev-tool that visualizes component performance in real-time  
-- Cloud cost optimization AI with auto-remediation  
-- Distributed CRDT inventory tracker  
-- Matrix-themed knowledge graph explorer  
-- Automated business workflow orchestrator (event-driven)  
-
-</details>
+### 🧾 InvoSync  
+**Link:** https://documentz.vercel.app  
+A comprehensive, privacy-first business management platform with 14 fully functional tools, 16 downloadable formats, and advanced features like signatures and format previews to simplify everyday business workflows.  
+**Role:** Solo project
 
 ---
 
-## 🗂️ Developer Logs (Terminal Output)
-
-- [BOOT] Loading developer profile...
-- [OK] Core systems optimized for scalability.
-- [INFO] Architecture > improvisation.
-- [INFO] Prefers distributed systems over monoliths.
-- [WARN] Inefficient code triggers auto-refactor mode.
-- [OK] Continuous evolution active.
-
+### 🌐 Portfolio  
+**Link:** https://shubhammukherjee.in  
+A personal portfolio website built with React and TypeScript, showcasing projects, skills, and experience with a modern, responsive UI.  
+**Role:** Solo project
 
 ---
 
-## 📫 Connect With Me
-
-📧 **Email:** shubhammukherjee@proton.me  
-🔗 **LinkedIn:** https://www.linkedin.com/in/theshubhammukherjee/  
-🌐 **Portfolio:** https://shubhammukherjee.in  
-🐦 **Twitter/X:** https://x.com/ItsShubhamDev  
+### 🤖 Caption Generator  
+**Link:** https://caption-genie-ai.vercel.app  
+A modern AI-powered Instagram caption generator built with Next.js, TypeScript, and Google Gemini AI, helping creators generate engaging captions for posts, stories, and reels.  
+**Role:** Solo project
 
 ---
 
-## ⚡ Closing Note
-**“Code that scales is code that survives.”**  
-Always learning, always shipping, always evolving.
+## 💼 Experience
 
+- 🟢 **GFG Campus Mantri (Campus Ambassador)**  
+  Promoting coding culture on campus, organizing activities, and encouraging peers to learn DSA and development.
+
+- 🧩 **Cisco – Python & C++**  
+  Gained solid foundations in Python and C++, focusing on problem-solving and programming best practices.
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science and Engineering (AIML)**  
+  Gyan Ganga Institute of Technology and Sciences  
+  4th year  
+
+**Relevant coursework:**  
+- DSA with JavaScript  
+- Web Development  
+- Full Stack Development  
+
+---
+
+## 🌍 Open Source Contributions
+
+- Participated in **Hacktoberfest**, contributing to open source repositories and collaborating with the community.  
+- Actively looking to contribute more to full stack, tooling, and AI-based projects.
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhammukherjee17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammukherjee17&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhammukherjee17&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhammukherjee17&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [mukherjeeshubham18@gmail.com](mailto:mukherjeeshubham18@gmail.com)  
+- 🌐 Portfolio: https://shubhammukherjee.in  
+- 💼 LinkedIn: https://www.linkedin.com/in/theshubhammukherjee/  
+- 🐦 X (Twitter): https://x.com/ItsShubhamDev  
+
+Open to **software developer / full stack roles**, **internships**, and **collaborations** on impactful projects.
