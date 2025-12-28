@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Mukherjee</h1>
-<h3 align="center">Full Stack Developer | Building scalable web apps with React, TypeScript, and Node.js</h3>
+<h3 align="center">Full Stack Developer | Building scalable web apps with React, TypeScript, and Next.js</h3>
 
 <p align="center">
   <a href="mailto:mukherjeeshubham18@gmail.com"><img src="https://img.shields.io/badge/Email-mukherjeeshubham18%40gmail.com-red?style=flat-square&logo=gmail" /></a>
