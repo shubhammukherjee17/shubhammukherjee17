@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [KhataX](https://khatax.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://shubhammukherjee,in](https://shubhammukherjee,in)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubhammukherjee,in)
 
 - 💬 Ask me about **React, TypeScript, Nextjs, Firebase**
 
