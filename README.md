@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, TypeScript, Nextjs, Firebase**
 
-- 📫 How to reach me **mukherjeeshubham18@gmail.com**
+- 📫 How to reach me **mukherjeeshubham18@gmail.com** 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I8Vx6s0v0r3OeIiBGgqUxMmh2XPSu5KK/view?usp=sharing)
 
