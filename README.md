@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on [KhataX](https://khatax.vercel.app)
@@ -25,6 +25,7 @@
 - 📫 How to reach me **mukherjeeshubham18@gmail.com** 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I8Vx6s0v0r3OeIiBGgqUxMmh2XPSu5KK/view?usp=sharing)
+
 
 ## 🧠 My Focus Areas
 - Web Development
@@ -79,9 +80,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
 </div>
 
