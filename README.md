@@ -97,11 +97,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhammukherjee17&show_icons=true&theme=dark&hide_border=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=shubhammukherjee17&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammukherjee17&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 
