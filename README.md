@@ -7,8 +7,6 @@
          <a href="mailto:shubhammukherjee@proton.me"><b>Mailbox</b></a> <br/>
 </h5>
 
-![OpBento](https://opbento.vercel.app/api/bento/image?g=shubhammukherjee17&z=1eab9)
-
 ---
 
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) 
